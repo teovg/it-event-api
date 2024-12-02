@@ -1,0 +1,86 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "email": "usuario12@mail.cl",
+      "avatar": "/assets/img/it-event.jpg",
+      "username": "usuario1",
+      "rut": "217929083",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "rut": "123456789",
+      "avatar": "/assets/img/it-event.jpg",
+      "isactive": true
+    }
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "titulo": "Seminario IA",
+      "ubicacion": "Auditorio principal",
+      "fecha": "26-09-2024",
+      "hora": "14:00",
+      "descripcion_corta": "Seminario sobre inteligencia artificial.",
+      "descripcion_larga": "Este seminario se centrará en las últimas tendencias y avances en inteligencia artificial, cubriendo temas como el aprendizaje automático y redes neuronales.",
+      "imagen": "/assets/img/it-event.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Seminario Ciberseguridad",
+      "ubicacion": "Auditorio principal",
+      "fecha": "29-09-2024",
+      "hora": "16:00",
+      "imagen": "/assets/img/it-event.jpg",
+      "descripcion_corta": "Seminario sobre ciberseguridad y protección de datos.",
+      "descripcion_larga": "En este evento, expertos del sector discutirán las mejores prácticas en ciberseguridad y cómo proteger la información ante las crecientes amenazas."
+    },
+    {
+      "id": "4",
+      "titulo": "Taller de Desarrollo Web",
+      "ubicacion": "Sala de Computación 3",
+      "fecha": "12-11-2024",
+      "hora": "10:00",
+      "imagen": "/assets/img/it-event.jpg",
+      "descripcion_corta": "Taller práctico de desarrollo web.",
+      "descripcion_larga": "Un taller donde los asistentes aprenderán a construir aplicaciones web utilizando las últimas tecnologías como React, Angular y Vue."
+    },
+    {
+      "id": "5",
+      "titulo": "Hackathon 2024",
+      "ubicacion": "Auditorio principal",
+      "fecha": "05-12-2024",
+      "hora": "08:00",
+      "imagen": "/assets/img/it-event.jpg",
+      "descripcion_corta": "Competencia de programación de 24 horas.",
+      "descripcion_larga": "Participa en la hackathon anual y colabora con otros desarrolladores para crear soluciones innovadoras en un entorno competitivo y emocionante."
+    }
+  ],
+  "eventosRegistrados": [
+    {
+      "id": "1",
+      "titulo": "Seminario IA",
+      "ubicacion": "Auditorio principal",
+      "fecha": "26-09-2024",
+      "hora": "14:00",
+      "imagen": "/assets/img/it-event.jpg",
+      "descripcion_corta": "Seminario sobre inteligencia artificial.",
+      "descripcion_larga": "Este seminario se centrará en las últimas tendencias y avances en inteligencia artificial, cubriendo temas como el aprendizaje automático y redes neuronales."
+    },
+    {
+      "id": "1",
+      "titulo": "Seminario IA",
+      "ubicacion": "Auditorio principal",
+      "fecha": "26-09-2024",
+      "hora": "14:00",
+      "imagen": "/assets/img/it-event.jpg",
+      "descripcion_corta": "Seminario sobre inteligencia artificial.",
+      "descripcion_larga": "Este seminario se centrará en las últimas tendencias y avances en inteligencia artificial, cubriendo temas como el aprendizaje automático y redes neuronales."
+    }
+  ]
+}
